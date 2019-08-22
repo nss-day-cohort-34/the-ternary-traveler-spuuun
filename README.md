@@ -34,7 +34,7 @@ To start you off, here's what the resources in your API should look like for thi
 
 ### Interests
 
-An example of what an interest would like when it is initially added:
+An example of what an interest would look like when it is initially added:
 ```json
 { "id": 1, "placeId": 1, "name": "Local Market", "description": "Local market where you can purchase local products and try the local food", "cost": 0.00, "review": "" }
 ```
